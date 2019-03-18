@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1035164459986",
+    "firebase_url": "https://devsena-hf-19.firebaseio.com",
+    "project_id": "devsena-hf-19",
+    "storage_bucket": "devsena-hf-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035164459986:android:7789c54569b29a76",
+        "android_client_info": {
+          "package_name": "com.example.android.authentication_walmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035164459986-kqarga2dp1olbtlkeq34pnsd6mkknsm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_8HpygJjAG3KeSuMsmNAcm66Ium5pEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035164459986:android:d9b3fd699856152a",
+        "android_client_info": {
+          "package_name": "labs.walmart.dev_sena.checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035164459986-kiqophhqie8debcbgt2ek30csokvdnh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "labs.walmart.dev_sena.checkout",
+            "certificate_hash": "968715c53ccef382b0faf5dd0d77b1a623b21df1"
+          }
+        },
+        {
+          "client_id": "1035164459986-kqarga2dp1olbtlkeq34pnsd6mkknsm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_8HpygJjAG3KeSuMsmNAcm66Ium5pEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035164459986-kqarga2dp1olbtlkeq34pnsd6mkknsm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
